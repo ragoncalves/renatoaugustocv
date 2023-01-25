@@ -9,7 +9,7 @@
 }
 body
 {
-    background: lightblue;
+    background: rgba(70, 72, 73, 0.336);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -30,7 +30,7 @@ body
 .container .left_Side
 {
     position: relative;
-    background: #003147;
+    background: #252727;
     padding: 40px;
 }
 .profileText
@@ -113,6 +113,7 @@ body
 .contactInfo.education li
 {
     margin-bottom: 15px;
+    font-size: medium;
 }
 .contactInfo.education h5
 {
@@ -126,8 +127,28 @@ body
 }
 .contactInfo.education h4
 {
-    color: #03a9f4;
-    font-weight: 300;
+    color: #fff;
+    font-weight: 200;
+}
+.contactInfo.language li
+{
+    margin-bottom: 15px;
+    font-size: medium;
+}
+.contactInfo.language h4
+{
+    color: #fff;
+    font-weight: 500;
+}
+.contactInfo.language h5 h5:nth-child(2)
+{
+    color: #fff;
+    font-weight: 500;
+}
+.contactInfo.language h5
+{
+    color: #fff;
+    font-weight: 200;
 }
 .container .right_Side
 {
