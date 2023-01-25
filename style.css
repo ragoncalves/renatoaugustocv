@@ -113,7 +113,7 @@ body
 .contactInfo.education li
 {
     margin-bottom: 15px;
-    font-size: medium;
+    font-size: 14px;
 }
 .contactInfo.education h5
 {
@@ -171,6 +171,7 @@ body
 p
 {
     color: #333;
+    font-size: 14px;
 }
 .about .box
 {
