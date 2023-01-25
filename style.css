@@ -130,25 +130,22 @@ body
     color: #fff;
     font-weight: 200;
 }
-.contactInfo.language li
+.contactInfo.language .percent
 {
-    margin-bottom: 15px;
-    font-size: medium;
+    position: relative;
+    width: 100%;
+    height: 6px;
+    background: #081921;
+    display: block;
+    margin-top: 5px;
 }
-.contactInfo.language h4
+.contactInfo.language .percent div
 {
-    color: #fff;
-    font-weight: 500;
-}
-.contactInfo.language h5 h5:nth-child(2)
-{
-    color: #fff;
-    font-weight: 500;
-}
-.contactInfo.language h5
-{
-    color: #fff;
-    font-weight: 200;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: #03a9f4;
 }
 .container .right_Side
 {
