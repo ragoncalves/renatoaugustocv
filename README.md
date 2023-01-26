@@ -1,2 +1,1 @@
-# cv
- 
+Currículo de Renato Augusto Gonçalves em HTML e CSS
