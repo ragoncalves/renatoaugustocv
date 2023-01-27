@@ -233,10 +233,12 @@ p
     {
         margin: 10px;
         grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: max-content;
     }
     .about.skills ul
     {
         grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: max-content;
     }
 }
 
@@ -253,5 +255,6 @@ p
     .about.skills ul
     {
         grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: max-content;
     }
 }
