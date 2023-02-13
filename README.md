@@ -29,7 +29,7 @@ ___
 ___
 
 Perfil
-------
+
 
 Sou graduado em Engenharia da Computação pelo centro universitário UNA e conto com mais de 10 anos de experiência na área de TI. Tenho experiências com análise de suporte, infraestrutura, governança e gerenciamento de projetos de TI.  
   
@@ -37,7 +37,7 @@ Busco aprimorar minhas habilidades interpessoais, comunicação e empatia, além
 ___
 
 Experiência
------------
+
 
 ##### 2020 - 2022 | Stola do Brasil 
 **Técnico de Informática**
@@ -70,7 +70,7 @@ Experiência
 ___
 
 Competências
-------------
+
 
 *   [Python](https://www.udemy.com/certificate/UC-04e32867-bf50-4c59-9261-d8e3d86479cd)
 *   [MySQL](https://www.udemy.com/certificate/UC-732489e2-8d67-4091-9260-0d84411f548c/)
