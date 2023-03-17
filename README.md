@@ -12,6 +12,10 @@ ___
 
 ### Formação
 
+*   2023 - 2024
+    **Pós-graduação em Inteligência Artificial e Aprendizado de Máquina** 
+    PUC Minas
+
 *   2016 - 2021
     **Bacharelado em Engenharia da Computação** 
     Centro Universitário UNA
