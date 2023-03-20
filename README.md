@@ -21,7 +21,6 @@ ___
     Centro Universitário UNA
 
 
-
 *   2011 - 2012
     **Técnico de Informática**  
     E. E. Técnico Industrial Professor Fontes
