@@ -34,9 +34,13 @@ ___
 Perfil
 
 
-Sou graduado em Engenharia da Computação pelo centro universitário UNA e conto com mais de 10 anos de experiência na área de TI. Tenho experiências com análise de suporte, infraestrutura, governança e gerenciamento de projetos de TI.  
-  
-Busco aprimorar minhas habilidades interpessoais, comunicação e empatia, além de ter uma visão crítica e estratégica. Sou dedicado, comprometido e proativo, gosto de trabalhar em equipe e busco sempre aprimorar meus conhecimentos e habilidades.
+Formado em Engenharia da Computação pelo Centro Universitário UNA, possuo mais de 10 anos de experiência em Tecnologiada Informação, com atuação em análise de suporte, infraestrutura, governança e gerenciamento de projetos em empresas de grande porte.
+                
+Atualmente, estou cursando uma pós-graduação em Inteligência Artificial e Aprendizado de Máquina para aprimorar minhas habilidades técnicas.
+
+Ao longo da minha carreira, desenvolvi habilidades interpessoais, de comunicação, empatia e uma visão crítica e estratégica, além de uma mentalidade criativa e inovadora, que me permite ser proativo e encontrar soluções para os desafios que surgem no trabalho.
+                
+Sou um profissional dedicado e comprometido com a busca de objetivos e metas, além de ter experiência em trabalho em equipe para oferecer o melhor resultado possível. Tenho a certeza de que minhas habilidades e experiência são valiosas para o próximo desafio profissional, buscando contribuir para o sucesso da empresa.
 ___
 
 Experiência
@@ -51,7 +55,7 @@ Experiência
 ##### 2020 | Usiminas
 **Estagiário**
 
-*Estagiário na área de Planejamento e Governança, Diretoria de TI na sede da Usiminas.*
+*Como estagiário de Planejamento e Governança, participei da equipe responsável pela gestão financeira, serviços, normas e auditorias, gerenciamento de projetos, desempenho e integração de áreas.*
 
 
 ##### 2017 - 2019 | Assembleia Legislativa Do Estado De Minas Gerais
@@ -70,20 +74,3 @@ Experiência
 **Analista de Suporte Técnico I**
 
 *Como analista de suporte técnico no grupo FIAT, atuei na seleção, implantação e manutenção de sistemas básicos e de apoio, além de controlar o acesso, documentar rotinas e monitorar o desempenho dos recursos técnicos instalados.*
-___
-
-Competências
-
-
-*   [Python](https://www.udemy.com/certificate/UC-04e32867-bf50-4c59-9261-d8e3d86479cd)
-*   [MySQL](https://www.udemy.com/certificate/UC-732489e2-8d67-4091-9260-0d84411f548c/)
-*   [HTML5](none.pdf)
-*   [CSS3](none.pdf)
-*   [Power BI](https://www.udemy.com/certificate/UC-795e0295-5411-4d1c-8341-56855ccd85d1/)
-*   [C](https://www.udemy.com/certificate/UC-77d20356-d60f-4e37-ba5d-9c620b3db726/)
-*   [Scrum](https://www.udemy.com/certificate/UC-3752f3bc-3f5d-42ac-9ade-dc635677146a/)
-*   [Active Directory](https://www.udemy.com/certificate/UC-e374a9cb-34f8-4e47-b855-a386f34e3fdd/)
-*   [LGPD](https://www.udemy.com/certificate/UC-13e5a63f-38a4-4ecc-8fd1-7e88a90a3d29/)
-*   [Trello](https://www.udemy.com/certificate/UC-7c870709-03a1-4919-a55a-60aec3d271fd/)
-*   [CC50](cc50.pdf)
-*   [GitHub](https://www.udemy.com/certificate/UC-b1749887-3824-49d6-bb92-90d903e254ec/)

@@ -135,6 +135,23 @@ body
     color: #fff;
     font-weight: 200;
 }
+
+.contactInfo.language .title
+{
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+
+.contactInfo.language h3
+{
+    color: #fff;
+    font-weight: 500;
+    font-size: 90%;
+}
+
 .contactInfo.language .percent
 {
     position: relative;
@@ -143,6 +160,7 @@ body
     background: #081921;
     display: block;
     margin-top: 5px;
+    margin-bottom: 7px;
 }
 .contactInfo.language .percent div
 {
@@ -152,6 +170,14 @@ body
     height: 100%;
     background: #03a9f4;
 }
+
+.contactInfo.language h5
+{
+    color: #fff;
+    font-weight: 200;
+    font-size: 80%;
+}
+
 .container .right_Side
 {
     position: relative;
