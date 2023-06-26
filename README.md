@@ -12,7 +12,7 @@ ___
 
 ### Formação
 
-*   2023 - 2024
+*   2023 - 2025
     **Pós-graduação em Inteligência Artificial e Aprendizado de Máquina** 
     PUC Minas
 
