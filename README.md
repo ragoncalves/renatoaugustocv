@@ -34,17 +34,33 @@ ___
 Perfil
 
 
-Formado em Engenharia da Computação pelo Centro Universitário UNA, possuo mais de 10 anos de experiência em Tecnologiada Informação, com atuação em análise de suporte, infraestrutura, governança e gerenciamento de projetos em empresas de grande porte.
-                
-Atualmente, estou cursando uma pós-graduação em Inteligência Artificial e Aprendizado de Máquina para aprimorar minhas habilidades técnicas.
+Formado em Engenharia da Computação pelo Centro Universitário UNA e cursando e cursando pós-graduação em Inteligência Artificial e Aprendizado de Máquina.
 
-Ao longo da minha carreira, desenvolvi habilidades interpessoais, de comunicação, empatia e uma visão crítica e estratégica, além de uma mentalidade criativa e inovadora, que me permite ser proativo e encontrar soluções para os desafios que surgem no trabalho.
-                
-Sou um profissional dedicado e comprometido com a busca de objetivos e metas, além de ter experiência em trabalho em equipe para oferecer o melhor resultado possível. Tenho a certeza de que minhas habilidades e experiência são valiosas para o próximo desafio profissional, buscando contribuir para o sucesso da empresa.
+No momento, exerço a função de Coordenador de TI na Associação Cruzeiro Esporte Clube, responsável por liderar e gerenciar as atividades de Tecnologia da Informação nas unidades Barro Preto e Campestre. Minhas responsabilidades incluem supervisionar de perto a infraestrutura tecnológica, incluindo redes, servidores, sistemas e hardware, bem como gerenciar os contratos de fornecedores e administrar os sistemas utilizados nas unidades.
+
+Minha trajetória profissional é marcada por experiências significativas na área de Tecnologia da Informação:
+
+Comecei na Stefanini Brasil, onde atuei como Analista de Suporte Técnico no grupo FIAT, contribuindo na seleção, implantação e manutenção de sistemas essenciais e de apoio.
+
+Na Virtual Sistemas e Tecnologia Ltda, atuei como Analista de Suporte Técnico, desempenhando um papel crucial na infraestrutura de TI do banco Inter.
+
+Minha passagem pela Assembleia Legislativa de Minas Gerais envolveu o papel de Analista de Atendimento Remoto, onde utilizei as diretrizes do ITIL v3 para garantir serviços de TI de alta qualidade e manter a certificação ISO/IEC 20000-1:2011.
+
+Na Usiminas, atuei como Estagiário na área de Planejamento e Governança da Diretoria de TI.
+
+Por fim, na Stola do Brasil, onde demonstrei habilidades em configuração de hardware, instalação de software, reparo de dispositivos e gerenciamento de redes. 
+
+Ao longo da minha carreira, refinei habilidades interpessoais, de comunicação e empatia, combinadas a uma visão analítica e estratégica. Minha abordagem criativa e inovadora me permite agir proativamente para enfrentar os desafios que surgem no ambiente de trabalho.
+
+Sou um profissional dedicado e comprometido com a realização de metas e objetivos. Minha experiência em trabalho em equipe amplifica minha capacidade de gerar os melhores resultados possíveis. Estou seguro de que minhas habilidades e vivências são ativos valiosos para o próximo desafio profissional, com o propósito de contribuir significativamente para o sucesso da empresa.
 ___
 
 Experiência
 
+##### 2020 - 2022 | Stola do Brasil 
+**Coordenador de TI**
+
+*Coordenador de TI no Cruzeiro Esporte Clube - Associação, responsável por liderar e gerenciar as atividades de Tecnologia da Informação nas unidades Barro Preto e Campestre. Minhas responsabilidades incluem supervisionar de perto a infraestrutura tecnológica, incluindo redes, servidores, sistemas e hardware, bem como gerenciar os contratos de fornecedores e administrar os sistemas utilizados nas unidades.*
 
 ##### 2020 - 2022 | Stola do Brasil 
 **Técnico de Informática**

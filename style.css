@@ -19,8 +19,8 @@ body
 {
     position: relative;
     width: 100%;
-    max-width: 1000px;
-    min-height: 1000px;
+    max-width: 1100px;
+    min-height: 1100px;
     background: #fff;
     margin: 50px;
     display: grid;
@@ -212,7 +212,7 @@ p
 }
 .about .box .year_company
 {
-    min-width: 150px;
+    min-width: 200px;
 }
 .about .box .year_company h5
 {
