@@ -6,256 +6,227 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Renato Augusto Gonçalves</title>
-    <link rel="shortcut icon" href="favicon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"
-        integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <script src="https://code.iconify.design/3/3.1.0/iconify.min.js"></script>
+        crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <button class="download-btn" onclick="window.print()">
-    <span class="iconify" data-icon="material-symbols:download-rounded"></span>
-    Baixar PDF
+    <i class="fa fa-download"></i> Baixar PDF
 </button>
 
 <body>
     <div class="container">
+
+        <!-- SIDEBAR -->
         <div class="left_Side">
+
             <div class="profileText">
-                <h2>Renato Augusto Gonçalves<br></h2>
+                <div class="name-block">
+                    <h2>Renato Augusto<br><span>Gonçalves</span></h2>
+                    <p class="job-title">Coordenador de TI</p>
+                    <div class="name-rule"></div>
+                </div>
             </div>
 
-            <div class="contactInfo">
-                <h3 class="title">Contato</h3>
-                <ul>
+            <div class="section-block">
+                <h3 class="sidebar-title">Contato</h3>
+                <ul class="contact-list">
                     <li>
-                        <span class="icon"><i class="fa fa-phone" aria-hidden="true"></i>
-                        </span>
-                        <span class="text"><a href="https://wa.me/5531992074107" target="_blank">+55 31 9
-                                9207-4107</a></span>
+                        <i class="fa fa-phone icon"></i>
+                        <a href="https://wa.me/5531992074107" target="_blank">+55 31 9 9207-4107</a>
                     </li>
                     <li>
-                        <span class="icon"><i class="fa fa-envelope-o" aria-hidden="true"></i>
-                        </span>
-                        <span class="text"><a href="mailto:ragoncalves@outlook.com">ragoncalves@outlook.com</a></span>
+                        <i class="fa fa-envelope-o icon"></i>
+                        <a href="mailto:ragoncalves@outlook.com">ragoncalves@outlook.com</a>
                     </li>
                     <li>
-                        <span class="icon"><i class="fa fa-linkedin" aria-hidden="true"></i>
-                        </span>
-                        <span class="text"><a href="https://www.linkedin.com/in/renatoaugustog/"
-                                target="_blank">linkedin.com/in/renatoaugustog</a></span>
+                        <i class="fa fa-linkedin icon"></i>
+                        <a href="https://www.linkedin.com/in/renatoaugustog/"
+                            target="_blank">linkedin.com/in/renatoaugustog</a>
                     </li>
                     <li>
-                        <span class="icon"><i class="fa fa-github" aria-hidden="true"></i>
-                        </span>
-                        <span class="text"><a href="https://github.com/ragoncalves"
-                                target="_blank">github.com/ragoncalves</a></span>
+                        <i class="fa fa-github icon"></i>
+                        <a href="https://github.com/ragoncalves" target="_blank">github.com/ragoncalves</a>
                     </li>
                     <li>
-                        <span class="icon"><i class="fa fa-map-marker" aria-hidden="true"></i>
-                        </span>
-                        <span class="text">Belo Horizonte, MG, Brasil</span>
+                        <i class="fa fa-map-marker icon"></i>
+                        <span>Belo Horizonte, MG, Brasil</span>
                     </li>
                 </ul>
             </div>
 
-            <div class="contactInfo education">
-                <h3 class="title">Formação</h3>
-                <ul>
+            <div class="section-block">
+                <h3 class="sidebar-title">Formação</h3>
+                <ul class="edu-list">
                     <li>
-                        <h5>2023 - 2024</h5>
-                        <h4><a href="puc.pdf" target="_blank">Pós-graduação em Inteligência Artificial e Aprendizado
-                                de Máquina</a></h4>
-                        <h4>PUC Minas</h4>
+                        <span class="year">2023 – 2024</span>
+                        <h4><a href="puc.pdf" target="_blank">Pós-graduação em Inteligência Artificial e Aprendizado de
+                                Máquina</a></h4>
+                        <p>PUC Minas</p>
                     </li>
                     <li>
-                        <h5>2016 - 2021</h5>
+                        <span class="year">2016 – 2021</span>
                         <h4><a href="una.pdf" target="_blank">Bacharelado em Engenharia da Computação</a></h4>
-                        <h4>Centro Universitário UNA</h4>
+                        <p>Centro Universitário UNA</p>
                     </li>
                     <li>
-                        <h5>2011 - 2012</h5>
-                        <h4>Técnico de Informática</h4>
-                        <h4>E. E. Técnico Industrial Professor Fontes</h4>
+                        <span class="year">2011 – 2012</span>
+                        <h4>Técnico em Informática</h4>
+                        <p>E. E. Técnico Industrial Professor Fontes</p>
                     </li>
                 </ul>
             </div>
 
-            <div class="contactInfo language">
-                <h3 class="title">Idiomas</h3>
-                <ul>
-                    <li>
-                        <h3>Inglês</h3>
-                        <span class="percent">
-                            <div style="width: 70%"></div>
-                        </span>
-                        <a href="https://www.efset.org/cert/sf5DgQ" target="_blank" style="text-decoration:none"><span
-                                class="text"></span>
-                            <h5>EF SET Certificate</h5>
-                            <h5>70/100</h5>
-                            <h5>C1 Advanced</h5></span>
-                        </a>
-                    </li>
-
-                </ul>
+            <div class="section-block">
+                <h3 class="sidebar-title">Idiomas</h3>
+                <div class="lang-block">
+                    <div class="lang-header">
+                        <span class="lang-name">Inglês</span>
+                        <span class="lang-level">C1 Advanced</span>
+                    </div>
+                    <div class="lang-bar">
+                        <div class="lang-fill" style="width: 70%"></div>
+                    </div>
+                    <a href="https://www.efset.org/cert/sf5DgQ" target="_blank" class="cert-link">
+                        <i class="fa fa-certificate"></i> EF SET Certificate · 70/100
+                    </a>
+                </div>
             </div>
+
+            <!--<div class="section-block">
+                <h3 class="sidebar-title">Competências</h3>
+                <div class="skills-grid">
+                    <span class="skill-tag">Infraestrutura de TI</span>
+                    <span class="skill-tag">Service Desk</span>
+                    <span class="skill-tag">Governança de TI</span>
+                    <span class="skill-tag">ITIL v3</span>
+                    <span class="skill-tag">Gestão de Fornecedores</span>
+                    <span class="skill-tag">Redes LAN/WAN</span>
+                    <span class="skill-tag">Active Directory</span>
+                    <span class="skill-tag">LGPD</span>
+                    <span class="skill-tag">Power BI</span>
+                    <span class="skill-tag">Python</span>
+                    <span class="skill-tag">MySQL</span>
+                    <span class="skill-tag">Scrum</span>
+                </div>
+            </div>-->
 
         </div>
-        <div class="right_Side">
-            <div class="about">
-                <h2 class="title2">Resumo Profissional</h2>
-                <p>
-                    Coordenador de TI e líder de operações com experiência desde 2012 em infraestrutura, suporte
-                    técnico, service desk, governança e organização de ambientes de tecnologia. Atualmente, atuo no
-                    Cruzeiro Esporte Clube Associação, sendo responsável pela operação de TI das duas unidades dos
-                    clubes sociais, pela coordenação da equipe, gestão de fornecedores, apoio a decisões de orçamento e
-                    condução de melhorias de processos e padronização do ambiente tecnológico. Ao longo da carreira,
-                    construí minha trajetória em empresas e instituições como Stola do Brasil, ALMG, Usiminas, Banco
-                    Inter, por meio da Virtual Sistemas, e Grupo FIAT, por meio da Stefanini. Sou Engenheiro da
-                    Computação, com pós-graduação em Inteligência Artificial e Aprendizado de Máquina, e tenho perfil
-                    prático, organizado e proativo, com foco em resolução de problemas, reestruturação de ambientes e
-                    ganho de eficiência operacional.
 
+        <!-- MAIN CONTENT -->
+        <div class="right_Side">
+
+            <div class="section">
+                <h2 class="section-title">Resumo Profissional</h2>
+                <p class="summary">
+                    Coordenador de TI com mais de 12 anos de experiência em infraestrutura, suporte técnico, service
+                    desk e governança. Atualmente, responsável pela operação tecnológica das duas unidades do Cruzeiro
+                    Esporte Clube Associação, com foco em padronização de ambientes, gestão de fornecedores e redução de
+                    custos operacionais. Ao longo da carreira, atuei em empresas de grande porte como ALMG, Usiminas,
+                    Banco Inter e Grupo FIAT. Engenheiro da Computação com pós-graduação em Inteligência Artificial e
+                    Aprendizado de Máquina. Perfil analítico, com foco em melhoria contínua, eficiência operacional e
+                    desenvolvimento de equipes.
                 </p>
             </div>
-            <div class="about">
-                <h2 class="title2">Experiência</h2>
 
-                <div class="box">
-                    <div class="year_company">
-                        <h5>2023 - Atualmente</h5>
-                        <h5>Cruzeiro Esporte Clube Associação</h5>
-                    </div>
-                    <div class="text">
-                        <h4>Coordenador de TI</h4>
-                        <p>Responsável pela operação de TI das unidades do clube social (Barro Preto e Campestre), onde
-                            coordeno a equipe, organizo prioridades e acompanho a execução das atividades da área.
-                            Atuo estrategicamente na gestão de fornecedores, análise de contratos e levantamento de
-                            orçamentos para apoio à tomada de decisão.
-                            Desde minha chegada, conduzo melhorias voltadas à padronização do ambiente tecnológico,
-                            incluindo a revisão de contratos, apoio à migração do ERP principal,
-                            padronização de sistemas e atualizações de hardware, com foco constante em eficiência
-                            operacional e redução de custos.</p>
-                    </div>
-                </div>
+            <div class="section">
+                <h2 class="section-title">Experiência Profissional</h2>
 
-                <div class="box">
-                    <div class="year_company">
-                        <h5>2020 - 2022</h5>
-                        <h5>Stola do Brasil</h5>
-                    </div>
-                    <div class="text">
-                        <h4>Técnico de Informática</h4>
-                        <p>Habilidade em configuração de hardwares, instalação e configuração de softwares e drivers.
-                            Responsável pelo suporte técnico à operação e ao administrativo, garantindo a
-                            disponibilidade dos recursos de TI.
-                            Atuei na manutenção de hardware, redes LAN/WAN e periféricos, com foco em diagnóstico ágil
-                            de falhas e suporte
-                            aos usuários para assegurar a continuidade do negócio e a estabilidade do parque
-                            tecnológico.</p>
-                    </div>
-                </div>
+                <div class="timeline">
 
-                <div class="box">
-                    <div class="year_company">
-                        <h5>2020</h5>
-                        <h5>Usiminas</h5>
+                    <div class="timeline-item">
+                        <div class="timeline-meta">
+                            <span class="tl-period">2023 – Atualmente</span>
+                            <span class="tl-company">Cruzeiro Esporte Clube Associação</span>
+                        </div>
+                        <div class="timeline-content">
+                            <h4 class="job-role">Coordenador de TI</h4>
+                            <p>Lidero a operação de TI das unidades Barro Preto e Campestre, coordenando equipe,
+                                priorizando demandas e garantindo a continuidade dos serviços. Atuo estrategicamente na
+                                gestão de contratos e fornecedores, levantamento de orçamentos e apoio à tomada de
+                                decisão. Desde a chegada, conduzi a padronização do ambiente tecnológico, a revisão de
+                                contratos vigentes, o apoio à migração do ERP principal e a atualização do parque de
+                                hardware, com resultados expressivos em eficiência operacional e controle de custos.
+                            </p>
+                        </div>
                     </div>
-                    <div class="text">
-                        <h4>Analista de Planejamento e Governança</h4>
-                        <p>Atuei no apoio à gestão de serviços e governança de TI, acompanhando normas, auditorias e
-                            processos da área.
-                            Participei do monitoramento de projetos e análise de desempenho, com foco na integração
-                            entre departamentos e
-                            na otimização de rotinas analíticas para garantir a conformidade e a eficiência dos serviços
-                            prestados.</p>
-                    </div>
-                </div>
 
-                <div class="box">
-                    <div class="year_company">
-                        <h5>2017 - 2019</h5>
-                        <h5>ALMG</h5>
+                    <div class="timeline-item">
+                        <div class="timeline-meta">
+                            <span class="tl-period">2020 – 2022</span>
+                            <span class="tl-company">Stola do Brasil</span>
+                        </div>
+                        <div class="timeline-content">
+                            <h4 class="job-role">Técnico de Informática</h4>
+                            <p>Responsável pelo suporte técnico às áreas operacional e administrativa, garantindo a
+                                disponibilidade dos recursos de TI. Realizei manutenção de hardware, redes LAN/WAN e
+                                periféricos, com diagnóstico ágil de falhas e foco na continuidade do parque tecnológico
+                                e estabilidade do negócio.</p>
+                        </div>
                     </div>
-                    <div class="text">
-                        <h4>Analista de Suporte Técnico</h4>
-                        <p>Atuei na Central de Serviços da GTI, realizando atendimento remoto e suportando o Sistema de
-                            Gestão de Serviços de TI da ALMG.
-                            Trabalhei com foco na manutenção da certificação ISO/IEC 20000-1 e nas práticas de ITIL v3,
-                            garantindo a
-                            qualidade do atendimento aos clientes internos e a continuidade dos serviços tecnológicos da
-                            instituição.</p>
-                    </div>
-                </div>
 
-                <div class="box">
-                    <div class="year_company">
-                        <h5>2013 - 2015</h5>
-                        <h5>Virtual Sistemas e Tecnologia LTDA</h5>
+                    <div class="timeline-item">
+                        <div class="timeline-meta">
+                            <span class="tl-period">2020</span>
+                            <span class="tl-company">Usiminas</span>
+                        </div>
+                        <div class="timeline-content">
+                            <h4 class="job-role">Analista de Planejamento e Governança de TI</h4>
+                            <p>Atuei no apoio à gestão de serviços e governança de TI, acompanhando normas, auditorias e
+                                processos internos. Participei do monitoramento de projetos e análise de desempenho,
+                                promovendo a integração entre departamentos e a conformidade dos serviços prestados.</p>
+                        </div>
                     </div>
-                    <div class="text">
-                        <h4>Analista de Suporte Técnico</h4>
-                        <p>Responsável pelo suporte técnico N1 e N2 à infraestrutura do Banco Inter, com atendimento
-                            focado em áreas administrativas e diretoria.
-                            Atuei na sustentação de desktops, notebooks e dispositivos móveis, priorizando a resolução
-                            ágil de incidentes e a
-                            otimização do desempenho dos ativos para garantir a continuidade das atividades da
-                            instituição.</p>
-                    </div>
-                </div>
 
-                <div class="box">
-                    <div class="year_company">
-                        <h5>2013</h5>
-                        <h5>Stefanini Group</h5>
+                    <div class="timeline-item">
+                        <div class="timeline-meta">
+                            <span class="tl-period">2017 – 2019</span>
+                            <span class="tl-company">ALMG</span>
+                        </div>
+                        <div class="timeline-content">
+                            <h4 class="job-role">Analista de Suporte Técnico</h4>
+                            <p>Atuei na Central de Serviços GTI com atendimento remoto e suporte ao Sistema de Gestão
+                                de Serviços de TI. Trabalhei com foco na manutenção da certificação ISO/IEC 20000-1 e
+                                nas práticas de ITIL v3, assegurando qualidade no atendimento aos clientes internos e a
+                                continuidade dos serviços tecnológicos da Assembleia.</p>
+                        </div>
                     </div>
-                    <div class="text">
-                        <h4>Analista de Suporte Técnico</h4>
-                        <p>Atuação no atendimento remoto de primeiro nível para o Grupo FIAT, fornecendo suporte técnico
-                            a sistemas corporativos e controle de acessos.
-                            Responsável pelo monitoramento de recursos do service desk e pela documentação de rotinas
-                            técnicas, garantindo a agilidade e a
-                            padronização dos processos de suporte da unidade.</p>
+
+                    <div class="timeline-item">
+                        <div class="timeline-meta">
+                            <span class="tl-period">2013 – 2015</span>
+                            <span class="tl-company">Virtual Sistemas <br> Banco Inter</span>
+                        </div>
+                        <div class="timeline-content">
+                            <h4 class="job-role">Analista de Suporte Técnico N1/N2</h4>
+                            <p>Responsável pelo suporte de infraestrutura N1 e N2 para o Banco Inter, com atendimento
+                                prioritário às áreas administrativas e à diretoria. Atuei na sustentação de desktops,
+                                notebooks e dispositivos móveis, priorizando a resolução ágil de incidentes e a
+                                disponibilidade dos ativos tecnológicos.</p>
+                        </div>
                     </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-meta">
+                            <span class="tl-period">2013</span>
+                            <span class="tl-company">Stefanini Group <br> Grupo FIAT</span>
+                        </div>
+                        <div class="timeline-content">
+                            <h4 class="job-role">Analista de Suporte Técnico</h4>
+                            <p>Atendimento remoto de primeiro nível para o Grupo FIAT, com suporte a sistemas
+                                corporativos e controle de acessos. Responsável pelo monitoramento de recursos do
+                                service desk e pela documentação de rotinas técnicas, garantindo padronização e
+                                agilidade nos processos de suporte.</p>
+                        </div>
+                    </div>
+
                 </div>
             </div>
-
-            <!-- div class="about skills">
-                <h2 class="title2">Competências</h2>
-                <ul>
-                    <li><span class="iconify" data-icon="mdi:language-python"></span><a href="https://www.udemy.com/certificate/UC-04e32867-bf50-4c59-9261-d8e3d86479cd" target="_blank">   Python</a></li>
-
-                    <li><span class="iconify" data-icon="akar-icons:django-fill"></span>   Django</a></li>
-
-                    <li><span class="iconify" data-icon="tabler:pepper"></span>   Flask</a></li>
-                    
-                    
-                    <li><span class="iconify" data-icon="teenyicons:html5-outline"></span>   HTML5</li>
-                    
-                    <li><span class="iconify" data-icon="teenyicons:css3-outline"></span>   CSS3</li>
-
-                    <li><span class="iconify" data-icon="mdi:language-javascript"></span>   JavaScript</a></li>
-
-                    <li><span class="iconify" data-icon="tabler:brand-mysql"></span><a href="https://www.udemy.com/certificate/UC-732489e2-8d67-4091-9260-0d84411f548c/" target="_blank">   MySQL</a></li>
-                    
-                    <li><span class="iconify" data-icon="simple-icons:powerbi"></span><a href="https://www.udemy.com/certificate/UC-795e0295-5411-4d1c-8341-56855ccd85d1/" target="_blank">   Power BI</a></li>
-                    
-                    <li><span class="iconify" data-icon="mdi:alpha-c-circle-outline"></span><a href="https://www.udemy.com/certificate/UC-77d20356-d60f-4e37-ba5d-9c620b3db726/" target="_blank">   C</a></li>
-                    
-                    <li><span class="iconify" data-icon="uiw:loading"></span><a href="https://www.udemy.com/certificate/UC-3752f3bc-3f5d-42ac-9ade-dc635677146a/" target="_blank">   Scrum</a></li>
-                    
-                    <li><span class="iconify" data-icon="tabler:ad-2"></span><a href="https://www.udemy.com/certificate/UC-e374a9cb-34f8-4e47-b855-a386f34e3fdd/" target="_blank">   Active Directory</a></li>
-                    
-                    <li><i class="fa fa-lock" aria-hidden="true"></i><a href="https://www.udemy.com/certificate/UC-13e5a63f-38a4-4ecc-8fd1-7e88a90a3d29/" target="_blank">   LGPD</a></li>
-                    
-                    <li><i class="fa fa-trello" aria-hidden="true"></i><a href="https://www.udemy.com/certificate/UC-7c870709-03a1-4919-a55a-60aec3d271fd/" target="_blank">   Trello</a></li>
-
-                    <li><i class="fa fa-laptop" aria-hidden="true"></i><a href="cc50.pdf" target="_blank">   CC50</a></li>
-                    
-                    <li><i class="fa fa-github" aria-hidden="true"></i><a href="https://www.udemy.com/certificate/UC-b1749887-3824-49d6-bb92-90d903e254ec/" target="_blank">   GitHub</a></li>
-                </ul>
-            </div -->
 
         </div>
     </div>
