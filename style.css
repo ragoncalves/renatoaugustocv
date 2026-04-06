@@ -483,4 +483,13 @@ body {
     .section-block { padding: 20px 28px !important; }
     .profileText { padding: 32px 28px 28px !important; }
     .timeline-item { padding-bottom: 18px !important; }
+    .timeline-item {
+        grid-template-columns: 110px 1fr !important;
+    }
+    .timeline-item::before {
+        left: 120px !important;
+    }
+    .timeline-item::after {
+        left: calc(120px - 4px) !important;
+    }
 }
