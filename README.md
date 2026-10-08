@@ -1,15 +1,15 @@
-# Currículo — Renato Augusto Gonçalves
+# Currículo - Renato Augusto Gonçalves
 
 Currículo em página única, publicado via GitHub Pages.
 
-- `index.html` / `style.css` — a página.
-- `curriculo-renato-augusto-goncalves.pdf` — o arquivo que o botão "Baixar PDF" entrega.
-- `puc.pdf`, `una.pdf`, `cc50.pdf` — diplomas e certificados linkados na sidebar.
+- `index.html` / `style.css` - a página.
+- `curriculo-renato-augusto-goncalves.pdf` - o arquivo que o botão "Baixar PDF" entrega.
+- `puc.pdf`, `una.pdf`, `cc50.pdf` - diplomas e certificados linkados na sidebar.
 
 ## Regerar o PDF (obrigatório após editar o currículo)
 
 O botão "Baixar PDF" serve um arquivo estático. Ele **não** se atualiza sozinho quando você
-edita `index.html` ou `style.css` — sem regerar, o download fica diferente da página.
+edita `index.html` ou `style.css` - sem regerar, o download fica diferente da página.
 
 No Windows, com o Chrome instalado:
 
@@ -35,7 +35,7 @@ python -c "import fitz; d=fitz.open('curriculo-renato-augusto-goncalves.pdf'); p
 
 As fontes saem como `Type3` porque o Google Fonts serve fontes variáveis, que o Chrome converte
 em contornos ao imprimir. O texto continua selecionável e extraível por sistemas de triagem (ATS)
-— verificado com `get_text()`, inclusive os acentos.
+verificado com `get_text()`, inclusive os acentos.
 
 ## O layout cabe em exatamente 1 página A4
 
@@ -45,7 +45,7 @@ os 1123px de um A4 com margem zero, ou seja, ~79px de folga.
 Ao adicionar texto (uma nova experiência, um parágrafo mais longo), confira se ainda cabe:
 
 ```bash
-# gere o PDF e conte as páginas — precisa dar 1
+# gere o PDF e conte as páginas - precisa dar 1
 ```
 
 Se passar de 1 página, aperte primeiro os espaçamentos do bloco `@media print`
